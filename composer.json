@@ -1,0 +1,13 @@
+{
+    "name": "thehilkiah/neo-framework",
+    "authors": [
+        {
+            "name": "Hilkiah Makemo",
+            "email": "hilmak01@gmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+      "vendor-dir": "private/vendor"
+    }
+}
